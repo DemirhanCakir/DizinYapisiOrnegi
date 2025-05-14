@@ -9,6 +9,7 @@ out/
 *.log
 *.iml
 target/
+test/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
