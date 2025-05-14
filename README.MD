@@ -1,6 +1,4 @@
-# Selenium Java Login Test
+# Selenium Java Giriş Testi
 
-This is a simple test that opens the login page at [the-internet.herokuapp.com](https://the-internet.herokuapp.com/login),  
-enters invalid credentials, and checks for an error message.
-
-## Folder Structure
+Bu, [the-internet.herokuapp.com](https://the-internet.herokuapp.com/login)adresindeki giriş sayfasını açan,
+geçersiz kullanıcı bilgileri giren ve hata mesajını kontrol eden basit bir testtir.
